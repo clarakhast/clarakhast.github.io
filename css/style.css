@@ -3,7 +3,24 @@
 
 body {
     text-align: center;
-    background-color: lightgray;
     font-family: 'lato', sans-serif;
+    background-image: url(../img/bg.jpeg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    color: rgb(252, 195, 8);
+    text-shadow: 2px 2px #ccc;
 
+}
+
+header {
+    margin: 20rem auto;
+}
+
+h1{
+    font-size: 5rem;
+}
+
+p {
+    font-size: 5rem;
+    font-weight: 900;
 }
